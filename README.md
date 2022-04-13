@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/imrantechwiz"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Self-taught%20Coder;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=480&height=75"></a>
+  <a href="https://github.com/vishvjeet-yadav"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Self-taught%20Coder;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=480&height=75"></a>
 </p>
  
  <img align = "center" alt="gif" src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="900" height="500" />
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:imran.techwiz@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://www.instagram.com/imtechwiz_11011110/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/vishvjeet-yadav/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:Vishvjeet99yadav@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://www.instagram.com/jee._none/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
 </body>
@@ -69,32 +69,3 @@ Here are some ideas to get you started:
 
 
  </p>
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=dracula" alt="VishvjeetYadav" />
-</p>
-
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&theme=dracula&layout=compact" alt="VishvjeetYadav" />
-</p> -->
-
-## 📊 My Github stats
-
-
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
-  <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
- </p>
-  <br/>
-  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
-
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vishvjeet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imrantechwiz&theme=react-dark" /></a>
-
-<!-- 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg) -->
-
